@@ -1,2 +1,2 @@
-# JavaScript
-JavaScript and Web Develop 
+# JavaScript - FrontEnd
+JavaScript and FrontEnd Web Develop 
