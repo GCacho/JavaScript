@@ -1,4 +1,7 @@
 // Variables
+let variableMasPro;
+const constantePro=0;
+
 var nombre = "Guillermo";
 var edad = 27;
 var edadx2 = edad + edad; 
